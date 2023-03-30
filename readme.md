@@ -10,10 +10,13 @@ To build and run this service, you will need:
 ### Building and Running the Service
 To build and run this service:
 
-1. Download the zip file from the email
+1. Clone the repository:
+```bash 
+git clone https://github.com/shakthi-vine/task-manager.git
+```
 2. Change to the project directory:
 ```bash 
-cd taskmanager
+cd task-manager
 ```
 3. Build the project
 ```
